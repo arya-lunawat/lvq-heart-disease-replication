@@ -4,10 +4,10 @@
 
 ### An independent replication of an 8-classifier heart disease prediction study, built with Python & scikit-learn
 
-[![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
-[![XGBoost](https://img.shields.io/badge/XGBoost-classifier-006400?style=for-the-badge)](https://xgboost.readthedocs.io)
-[![Jupyter](https://img.shields.io/badge/Jupyter-notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
+[![Python](https://badgen.net/badge/Python/3.11/3776AB)](https://python.org)
+[![scikit-learn](https://badgen.net/badge/scikit-learn/1.3/F7931E)](https://scikit-learn.org)
+[![XGBoost](https://badgen.net/badge/XGBoost/classifier/006400)](https://xgboost.readthedocs.io)
+[![Jupyter](https://badgen.net/badge/Jupyter/notebook/F37626)](https://jupyter.org)
 
 [Overview](#-overview) · [Results](#-results--paper-vs-replication) · [Figures](#-key-figures) · [Tech Stack](#-tech-stack) · [Getting Started](#-getting-started) · [Folder Structure](#-folder-structure)
 
